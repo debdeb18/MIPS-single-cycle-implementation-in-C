@@ -1,0 +1,941 @@
+PC: 0            --> FET: 27bdffe0
+register updated --> $29: 0xffffe0
+PC updated       --> PC: 4
+
+PC: 4            --> FET: afbf001c
+memory updated   --> 0x3fffff: 0xffffffff
+PC updated       --> PC: 8
+
+PC: 8            --> FET: afbe0018
+memory updated   --> 0x3ffffe: 0x0
+PC updated       --> PC: c
+
+PC: c            --> FET: 03a0f021
+register updated --> $30: 0xffffe0
+PC updated       --> PC: 10
+
+PC: 10           --> FET: 2404000a
+register updated --> $4: 0xa
+PC updated       --> PC: 14
+
+PC: 14           --> FET: 0c00000d
+register updated --> $31: 0x1c
+PC updated       --> PC: 34
+
+PC: 34           --> FET: 27bdffd8
+register updated --> $29: 0xffffb8
+PC updated       --> PC: 38
+
+PC: 38           --> FET: afbf0024
+memory updated   --> 0x3ffff7: 0x1c
+PC updated       --> PC: 3c
+
+PC: 3c           --> FET: afbe0020
+memory updated   --> 0x3ffff6: 0xffffe0
+PC updated       --> PC: 40
+
+PC: 40           --> FET: 03a0f021
+register updated --> $30: 0xffffb8
+PC updated       --> PC: 44
+
+PC: 44           --> FET: afc40028
+memory updated   --> 0x3ffff8: 0xa
+PC updated       --> PC: 48
+
+PC: 48           --> FET: 8fc30028
+register updated --> $3: 0xa
+PC updated       --> PC: 4c
+
+PC: 4c           --> FET: 24020001
+register updated --> $2: 0x1
+PC updated       --> PC: 50
+
+PC: 50           --> FET: 14620004
+PC updated       --> PC: 64
+
+PC: 64           --> FET: 8fc20028
+register updated --> $2: 0xa
+PC updated       --> PC: 68
+
+PC: 68           --> FET: 00000000
+PC updated       --> PC: 6c
+
+PC: 6c           --> FET: 2442ffff
+register updated --> $2: 0x9
+PC updated       --> PC: 70
+
+PC: 70           --> FET: 00402021
+register updated --> $4: 0x9
+PC updated       --> PC: 74
+
+PC: 74           --> FET: 0c00000d
+register updated --> $31: 0x7c
+PC updated       --> PC: 34
+
+PC: 34           --> FET: 27bdffd8
+register updated --> $29: 0xffff90
+PC updated       --> PC: 38
+
+PC: 38           --> FET: afbf0024
+memory updated   --> 0x3fffed: 0x7c
+PC updated       --> PC: 3c
+
+PC: 3c           --> FET: afbe0020
+memory updated   --> 0x3fffec: 0xffffb8
+PC updated       --> PC: 40
+
+PC: 40           --> FET: 03a0f021
+register updated --> $30: 0xffff90
+PC updated       --> PC: 44
+
+PC: 44           --> FET: afc40028
+memory updated   --> 0x3fffee: 0x9
+PC updated       --> PC: 48
+
+PC: 48           --> FET: 8fc30028
+register updated --> $3: 0x9
+PC updated       --> PC: 4c
+
+PC: 4c           --> FET: 24020001
+register updated --> $2: 0x1
+PC updated       --> PC: 50
+
+PC: 50           --> FET: 14620004
+PC updated       --> PC: 64
+
+PC: 64           --> FET: 8fc20028
+register updated --> $2: 0x9
+PC updated       --> PC: 68
+
+PC: 68           --> FET: 00000000
+PC updated       --> PC: 6c
+
+PC: 6c           --> FET: 2442ffff
+register updated --> $2: 0x8
+PC updated       --> PC: 70
+
+PC: 70           --> FET: 00402021
+register updated --> $4: 0x8
+PC updated       --> PC: 74
+
+PC: 74           --> FET: 0c00000d
+register updated --> $31: 0x7c
+PC updated       --> PC: 34
+
+PC: 34           --> FET: 27bdffd8
+register updated --> $29: 0xffff68
+PC updated       --> PC: 38
+
+PC: 38           --> FET: afbf0024
+memory updated   --> 0x3fffe3: 0x7c
+PC updated       --> PC: 3c
+
+PC: 3c           --> FET: afbe0020
+memory updated   --> 0x3fffe2: 0xffff90
+PC updated       --> PC: 40
+
+PC: 40           --> FET: 03a0f021
+register updated --> $30: 0xffff68
+PC updated       --> PC: 44
+
+PC: 44           --> FET: afc40028
+memory updated   --> 0x3fffe4: 0x8
+PC updated       --> PC: 48
+
+PC: 48           --> FET: 8fc30028
+register updated --> $3: 0x8
+PC updated       --> PC: 4c
+
+PC: 4c           --> FET: 24020001
+register updated --> $2: 0x1
+PC updated       --> PC: 50
+
+PC: 50           --> FET: 14620004
+PC updated       --> PC: 64
+
+PC: 64           --> FET: 8fc20028
+register updated --> $2: 0x8
+PC updated       --> PC: 68
+
+PC: 68           --> FET: 00000000
+PC updated       --> PC: 6c
+
+PC: 6c           --> FET: 2442ffff
+register updated --> $2: 0x7
+PC updated       --> PC: 70
+
+PC: 70           --> FET: 00402021
+register updated --> $4: 0x7
+PC updated       --> PC: 74
+
+PC: 74           --> FET: 0c00000d
+register updated --> $31: 0x7c
+PC updated       --> PC: 34
+
+PC: 34           --> FET: 27bdffd8
+register updated --> $29: 0xffff40
+PC updated       --> PC: 38
+
+PC: 38           --> FET: afbf0024
+memory updated   --> 0x3fffd9: 0x7c
+PC updated       --> PC: 3c
+
+PC: 3c           --> FET: afbe0020
+memory updated   --> 0x3fffd8: 0xffff68
+PC updated       --> PC: 40
+
+PC: 40           --> FET: 03a0f021
+register updated --> $30: 0xffff40
+PC updated       --> PC: 44
+
+PC: 44           --> FET: afc40028
+memory updated   --> 0x3fffda: 0x7
+PC updated       --> PC: 48
+
+PC: 48           --> FET: 8fc30028
+register updated --> $3: 0x7
+PC updated       --> PC: 4c
+
+PC: 4c           --> FET: 24020001
+register updated --> $2: 0x1
+PC updated       --> PC: 50
+
+PC: 50           --> FET: 14620004
+PC updated       --> PC: 64
+
+PC: 64           --> FET: 8fc20028
+register updated --> $2: 0x7
+PC updated       --> PC: 68
+
+PC: 68           --> FET: 00000000
+PC updated       --> PC: 6c
+
+PC: 6c           --> FET: 2442ffff
+register updated --> $2: 0x6
+PC updated       --> PC: 70
+
+PC: 70           --> FET: 00402021
+register updated --> $4: 0x6
+PC updated       --> PC: 74
+
+PC: 74           --> FET: 0c00000d
+register updated --> $31: 0x7c
+PC updated       --> PC: 34
+
+PC: 34           --> FET: 27bdffd8
+register updated --> $29: 0xffff18
+PC updated       --> PC: 38
+
+PC: 38           --> FET: afbf0024
+memory updated   --> 0x3fffcf: 0x7c
+PC updated       --> PC: 3c
+
+PC: 3c           --> FET: afbe0020
+memory updated   --> 0x3fffce: 0xffff40
+PC updated       --> PC: 40
+
+PC: 40           --> FET: 03a0f021
+register updated --> $30: 0xffff18
+PC updated       --> PC: 44
+
+PC: 44           --> FET: afc40028
+memory updated   --> 0x3fffd0: 0x6
+PC updated       --> PC: 48
+
+PC: 48           --> FET: 8fc30028
+register updated --> $3: 0x6
+PC updated       --> PC: 4c
+
+PC: 4c           --> FET: 24020001
+register updated --> $2: 0x1
+PC updated       --> PC: 50
+
+PC: 50           --> FET: 14620004
+PC updated       --> PC: 64
+
+PC: 64           --> FET: 8fc20028
+register updated --> $2: 0x6
+PC updated       --> PC: 68
+
+PC: 68           --> FET: 00000000
+PC updated       --> PC: 6c
+
+PC: 6c           --> FET: 2442ffff
+register updated --> $2: 0x5
+PC updated       --> PC: 70
+
+PC: 70           --> FET: 00402021
+register updated --> $4: 0x5
+PC updated       --> PC: 74
+
+PC: 74           --> FET: 0c00000d
+register updated --> $31: 0x7c
+PC updated       --> PC: 34
+
+PC: 34           --> FET: 27bdffd8
+register updated --> $29: 0xfffef0
+PC updated       --> PC: 38
+
+PC: 38           --> FET: afbf0024
+memory updated   --> 0x3fffc5: 0x7c
+PC updated       --> PC: 3c
+
+PC: 3c           --> FET: afbe0020
+memory updated   --> 0x3fffc4: 0xffff18
+PC updated       --> PC: 40
+
+PC: 40           --> FET: 03a0f021
+register updated --> $30: 0xfffef0
+PC updated       --> PC: 44
+
+PC: 44           --> FET: afc40028
+memory updated   --> 0x3fffc6: 0x5
+PC updated       --> PC: 48
+
+PC: 48           --> FET: 8fc30028
+register updated --> $3: 0x5
+PC updated       --> PC: 4c
+
+PC: 4c           --> FET: 24020001
+register updated --> $2: 0x1
+PC updated       --> PC: 50
+
+PC: 50           --> FET: 14620004
+PC updated       --> PC: 64
+
+PC: 64           --> FET: 8fc20028
+register updated --> $2: 0x5
+PC updated       --> PC: 68
+
+PC: 68           --> FET: 00000000
+PC updated       --> PC: 6c
+
+PC: 6c           --> FET: 2442ffff
+register updated --> $2: 0x4
+PC updated       --> PC: 70
+
+PC: 70           --> FET: 00402021
+register updated --> $4: 0x4
+PC updated       --> PC: 74
+
+PC: 74           --> FET: 0c00000d
+register updated --> $31: 0x7c
+PC updated       --> PC: 34
+
+PC: 34           --> FET: 27bdffd8
+register updated --> $29: 0xfffec8
+PC updated       --> PC: 38
+
+PC: 38           --> FET: afbf0024
+memory updated   --> 0x3fffbb: 0x7c
+PC updated       --> PC: 3c
+
+PC: 3c           --> FET: afbe0020
+memory updated   --> 0x3fffba: 0xfffef0
+PC updated       --> PC: 40
+
+PC: 40           --> FET: 03a0f021
+register updated --> $30: 0xfffec8
+PC updated       --> PC: 44
+
+PC: 44           --> FET: afc40028
+memory updated   --> 0x3fffbc: 0x4
+PC updated       --> PC: 48
+
+PC: 48           --> FET: 8fc30028
+register updated --> $3: 0x4
+PC updated       --> PC: 4c
+
+PC: 4c           --> FET: 24020001
+register updated --> $2: 0x1
+PC updated       --> PC: 50
+
+PC: 50           --> FET: 14620004
+PC updated       --> PC: 64
+
+PC: 64           --> FET: 8fc20028
+register updated --> $2: 0x4
+PC updated       --> PC: 68
+
+PC: 68           --> FET: 00000000
+PC updated       --> PC: 6c
+
+PC: 6c           --> FET: 2442ffff
+register updated --> $2: 0x3
+PC updated       --> PC: 70
+
+PC: 70           --> FET: 00402021
+register updated --> $4: 0x3
+PC updated       --> PC: 74
+
+PC: 74           --> FET: 0c00000d
+register updated --> $31: 0x7c
+PC updated       --> PC: 34
+
+PC: 34           --> FET: 27bdffd8
+register updated --> $29: 0xfffea0
+PC updated       --> PC: 38
+
+PC: 38           --> FET: afbf0024
+memory updated   --> 0x3fffb1: 0x7c
+PC updated       --> PC: 3c
+
+PC: 3c           --> FET: afbe0020
+memory updated   --> 0x3fffb0: 0xfffec8
+PC updated       --> PC: 40
+
+PC: 40           --> FET: 03a0f021
+register updated --> $30: 0xfffea0
+PC updated       --> PC: 44
+
+PC: 44           --> FET: afc40028
+memory updated   --> 0x3fffb2: 0x3
+PC updated       --> PC: 48
+
+PC: 48           --> FET: 8fc30028
+register updated --> $3: 0x3
+PC updated       --> PC: 4c
+
+PC: 4c           --> FET: 24020001
+register updated --> $2: 0x1
+PC updated       --> PC: 50
+
+PC: 50           --> FET: 14620004
+PC updated       --> PC: 64
+
+PC: 64           --> FET: 8fc20028
+register updated --> $2: 0x3
+PC updated       --> PC: 68
+
+PC: 68           --> FET: 00000000
+PC updated       --> PC: 6c
+
+PC: 6c           --> FET: 2442ffff
+register updated --> $2: 0x2
+PC updated       --> PC: 70
+
+PC: 70           --> FET: 00402021
+register updated --> $4: 0x2
+PC updated       --> PC: 74
+
+PC: 74           --> FET: 0c00000d
+register updated --> $31: 0x7c
+PC updated       --> PC: 34
+
+PC: 34           --> FET: 27bdffd8
+register updated --> $29: 0xfffe78
+PC updated       --> PC: 38
+
+PC: 38           --> FET: afbf0024
+memory updated   --> 0x3fffa7: 0x7c
+PC updated       --> PC: 3c
+
+PC: 3c           --> FET: afbe0020
+memory updated   --> 0x3fffa6: 0xfffea0
+PC updated       --> PC: 40
+
+PC: 40           --> FET: 03a0f021
+register updated --> $30: 0xfffe78
+PC updated       --> PC: 44
+
+PC: 44           --> FET: afc40028
+memory updated   --> 0x3fffa8: 0x2
+PC updated       --> PC: 48
+
+PC: 48           --> FET: 8fc30028
+register updated --> $3: 0x2
+PC updated       --> PC: 4c
+
+PC: 4c           --> FET: 24020001
+register updated --> $2: 0x1
+PC updated       --> PC: 50
+
+PC: 50           --> FET: 14620004
+PC updated       --> PC: 64
+
+PC: 64           --> FET: 8fc20028
+register updated --> $2: 0x2
+PC updated       --> PC: 68
+
+PC: 68           --> FET: 00000000
+PC updated       --> PC: 6c
+
+PC: 6c           --> FET: 2442ffff
+register updated --> $2: 0x1
+PC updated       --> PC: 70
+
+PC: 70           --> FET: 00402021
+register updated --> $4: 0x1
+PC updated       --> PC: 74
+
+PC: 74           --> FET: 0c00000d
+register updated --> $31: 0x7c
+PC updated       --> PC: 34
+
+PC: 34           --> FET: 27bdffd8
+register updated --> $29: 0xfffe50
+PC updated       --> PC: 38
+
+PC: 38           --> FET: afbf0024
+memory updated   --> 0x3fff9d: 0x7c
+PC updated       --> PC: 3c
+
+PC: 3c           --> FET: afbe0020
+memory updated   --> 0x3fff9c: 0xfffe78
+PC updated       --> PC: 40
+
+PC: 40           --> FET: 03a0f021
+register updated --> $30: 0xfffe50
+PC updated       --> PC: 44
+
+PC: 44           --> FET: afc40028
+memory updated   --> 0x3fff9e: 0x1
+PC updated       --> PC: 48
+
+PC: 48           --> FET: 8fc30028
+register updated --> $3: 0x1
+PC updated       --> PC: 4c
+
+PC: 4c           --> FET: 24020001
+register updated --> $2: 0x1
+PC updated       --> PC: 50
+
+PC: 50           --> FET: 14620004
+PC updated       --> PC: 54
+
+PC: 54           --> FET: 00000000
+PC updated       --> PC: 58
+
+PC: 58           --> FET: 24020001
+register updated --> $2: 0x1
+PC updated       --> PC: 5c
+
+PC: 5c           --> FET: 08000025
+PC updated       --> PC: 94
+
+PC: 94           --> FET: 03c0e821
+register updated --> $29: 0xfffe50
+PC updated       --> PC: 98
+
+PC: 98           --> FET: 8fbf0024
+register updated --> $31: 0x7c
+PC updated       --> PC: 9c
+
+PC: 9c           --> FET: 8fbe0020
+register updated --> $30: 0xfffe78
+PC updated       --> PC: a0
+
+PC: a0           --> FET: 27bd0028
+register updated --> $29: 0xfffe78
+PC updated       --> PC: a4
+
+PC: a4           --> FET: 03e00008
+PC updated       --> PC: 7c
+
+PC: 7c           --> FET: 00401821
+register updated --> $3: 0x1
+PC updated       --> PC: 80
+
+PC: 80           --> FET: 8fc20028
+register updated --> $2: 0x2
+PC updated       --> PC: 84
+
+PC: 84           --> FET: 00000000
+PC updated       --> PC: 88
+
+PC: 88           --> FET: 00621021
+register updated --> $2: 0x3
+PC updated       --> PC: 8c
+
+PC: 8c           --> FET: afc20018
+memory updated   --> 0x3fffa4: 0x3
+PC updated       --> PC: 90
+
+PC: 90           --> FET: 8fc20018
+register updated --> $2: 0x3
+PC updated       --> PC: 94
+
+PC: 94           --> FET: 03c0e821
+register updated --> $29: 0xfffe78
+PC updated       --> PC: 98
+
+PC: 98           --> FET: 8fbf0024
+register updated --> $31: 0x7c
+PC updated       --> PC: 9c
+
+PC: 9c           --> FET: 8fbe0020
+register updated --> $30: 0xfffea0
+PC updated       --> PC: a0
+
+PC: a0           --> FET: 27bd0028
+register updated --> $29: 0xfffea0
+PC updated       --> PC: a4
+
+PC: a4           --> FET: 03e00008
+PC updated       --> PC: 7c
+
+PC: 7c           --> FET: 00401821
+register updated --> $3: 0x3
+PC updated       --> PC: 80
+
+PC: 80           --> FET: 8fc20028
+register updated --> $2: 0x3
+PC updated       --> PC: 84
+
+PC: 84           --> FET: 00000000
+PC updated       --> PC: 88
+
+PC: 88           --> FET: 00621021
+register updated --> $2: 0x6
+PC updated       --> PC: 8c
+
+PC: 8c           --> FET: afc20018
+memory updated   --> 0x3fffae: 0x6
+PC updated       --> PC: 90
+
+PC: 90           --> FET: 8fc20018
+register updated --> $2: 0x6
+PC updated       --> PC: 94
+
+PC: 94           --> FET: 03c0e821
+register updated --> $29: 0xfffea0
+PC updated       --> PC: 98
+
+PC: 98           --> FET: 8fbf0024
+register updated --> $31: 0x7c
+PC updated       --> PC: 9c
+
+PC: 9c           --> FET: 8fbe0020
+register updated --> $30: 0xfffec8
+PC updated       --> PC: a0
+
+PC: a0           --> FET: 27bd0028
+register updated --> $29: 0xfffec8
+PC updated       --> PC: a4
+
+PC: a4           --> FET: 03e00008
+PC updated       --> PC: 7c
+
+PC: 7c           --> FET: 00401821
+register updated --> $3: 0x6
+PC updated       --> PC: 80
+
+PC: 80           --> FET: 8fc20028
+register updated --> $2: 0x4
+PC updated       --> PC: 84
+
+PC: 84           --> FET: 00000000
+PC updated       --> PC: 88
+
+PC: 88           --> FET: 00621021
+register updated --> $2: 0xa
+PC updated       --> PC: 8c
+
+PC: 8c           --> FET: afc20018
+memory updated   --> 0x3fffb8: 0xa
+PC updated       --> PC: 90
+
+PC: 90           --> FET: 8fc20018
+register updated --> $2: 0xa
+PC updated       --> PC: 94
+
+PC: 94           --> FET: 03c0e821
+register updated --> $29: 0xfffec8
+PC updated       --> PC: 98
+
+PC: 98           --> FET: 8fbf0024
+register updated --> $31: 0x7c
+PC updated       --> PC: 9c
+
+PC: 9c           --> FET: 8fbe0020
+register updated --> $30: 0xfffef0
+PC updated       --> PC: a0
+
+PC: a0           --> FET: 27bd0028
+register updated --> $29: 0xfffef0
+PC updated       --> PC: a4
+
+PC: a4           --> FET: 03e00008
+PC updated       --> PC: 7c
+
+PC: 7c           --> FET: 00401821
+register updated --> $3: 0xa
+PC updated       --> PC: 80
+
+PC: 80           --> FET: 8fc20028
+register updated --> $2: 0x5
+PC updated       --> PC: 84
+
+PC: 84           --> FET: 00000000
+PC updated       --> PC: 88
+
+PC: 88           --> FET: 00621021
+register updated --> $2: 0xf
+PC updated       --> PC: 8c
+
+PC: 8c           --> FET: afc20018
+memory updated   --> 0x3fffc2: 0xf
+PC updated       --> PC: 90
+
+PC: 90           --> FET: 8fc20018
+register updated --> $2: 0xf
+PC updated       --> PC: 94
+
+PC: 94           --> FET: 03c0e821
+register updated --> $29: 0xfffef0
+PC updated       --> PC: 98
+
+PC: 98           --> FET: 8fbf0024
+register updated --> $31: 0x7c
+PC updated       --> PC: 9c
+
+PC: 9c           --> FET: 8fbe0020
+register updated --> $30: 0xffff18
+PC updated       --> PC: a0
+
+PC: a0           --> FET: 27bd0028
+register updated --> $29: 0xffff18
+PC updated       --> PC: a4
+
+PC: a4           --> FET: 03e00008
+PC updated       --> PC: 7c
+
+PC: 7c           --> FET: 00401821
+register updated --> $3: 0xf
+PC updated       --> PC: 80
+
+PC: 80           --> FET: 8fc20028
+register updated --> $2: 0x6
+PC updated       --> PC: 84
+
+PC: 84           --> FET: 00000000
+PC updated       --> PC: 88
+
+PC: 88           --> FET: 00621021
+register updated --> $2: 0x15
+PC updated       --> PC: 8c
+
+PC: 8c           --> FET: afc20018
+memory updated   --> 0x3fffcc: 0x15
+PC updated       --> PC: 90
+
+PC: 90           --> FET: 8fc20018
+register updated --> $2: 0x15
+PC updated       --> PC: 94
+
+PC: 94           --> FET: 03c0e821
+register updated --> $29: 0xffff18
+PC updated       --> PC: 98
+
+PC: 98           --> FET: 8fbf0024
+register updated --> $31: 0x7c
+PC updated       --> PC: 9c
+
+PC: 9c           --> FET: 8fbe0020
+register updated --> $30: 0xffff40
+PC updated       --> PC: a0
+
+PC: a0           --> FET: 27bd0028
+register updated --> $29: 0xffff40
+PC updated       --> PC: a4
+
+PC: a4           --> FET: 03e00008
+PC updated       --> PC: 7c
+
+PC: 7c           --> FET: 00401821
+register updated --> $3: 0x15
+PC updated       --> PC: 80
+
+PC: 80           --> FET: 8fc20028
+register updated --> $2: 0x7
+PC updated       --> PC: 84
+
+PC: 84           --> FET: 00000000
+PC updated       --> PC: 88
+
+PC: 88           --> FET: 00621021
+register updated --> $2: 0x1c
+PC updated       --> PC: 8c
+
+PC: 8c           --> FET: afc20018
+memory updated   --> 0x3fffd6: 0x1c
+PC updated       --> PC: 90
+
+PC: 90           --> FET: 8fc20018
+register updated --> $2: 0x1c
+PC updated       --> PC: 94
+
+PC: 94           --> FET: 03c0e821
+register updated --> $29: 0xffff40
+PC updated       --> PC: 98
+
+PC: 98           --> FET: 8fbf0024
+register updated --> $31: 0x7c
+PC updated       --> PC: 9c
+
+PC: 9c           --> FET: 8fbe0020
+register updated --> $30: 0xffff68
+PC updated       --> PC: a0
+
+PC: a0           --> FET: 27bd0028
+register updated --> $29: 0xffff68
+PC updated       --> PC: a4
+
+PC: a4           --> FET: 03e00008
+PC updated       --> PC: 7c
+
+PC: 7c           --> FET: 00401821
+register updated --> $3: 0x1c
+PC updated       --> PC: 80
+
+PC: 80           --> FET: 8fc20028
+register updated --> $2: 0x8
+PC updated       --> PC: 84
+
+PC: 84           --> FET: 00000000
+PC updated       --> PC: 88
+
+PC: 88           --> FET: 00621021
+register updated --> $2: 0x24
+PC updated       --> PC: 8c
+
+PC: 8c           --> FET: afc20018
+memory updated   --> 0x3fffe0: 0x24
+PC updated       --> PC: 90
+
+PC: 90           --> FET: 8fc20018
+register updated --> $2: 0x24
+PC updated       --> PC: 94
+
+PC: 94           --> FET: 03c0e821
+register updated --> $29: 0xffff68
+PC updated       --> PC: 98
+
+PC: 98           --> FET: 8fbf0024
+register updated --> $31: 0x7c
+PC updated       --> PC: 9c
+
+PC: 9c           --> FET: 8fbe0020
+register updated --> $30: 0xffff90
+PC updated       --> PC: a0
+
+PC: a0           --> FET: 27bd0028
+register updated --> $29: 0xffff90
+PC updated       --> PC: a4
+
+PC: a4           --> FET: 03e00008
+PC updated       --> PC: 7c
+
+PC: 7c           --> FET: 00401821
+register updated --> $3: 0x24
+PC updated       --> PC: 80
+
+PC: 80           --> FET: 8fc20028
+register updated --> $2: 0x9
+PC updated       --> PC: 84
+
+PC: 84           --> FET: 00000000
+PC updated       --> PC: 88
+
+PC: 88           --> FET: 00621021
+register updated --> $2: 0x2d
+PC updated       --> PC: 8c
+
+PC: 8c           --> FET: afc20018
+memory updated   --> 0x3fffea: 0x2d
+PC updated       --> PC: 90
+
+PC: 90           --> FET: 8fc20018
+register updated --> $2: 0x2d
+PC updated       --> PC: 94
+
+PC: 94           --> FET: 03c0e821
+register updated --> $29: 0xffff90
+PC updated       --> PC: 98
+
+PC: 98           --> FET: 8fbf0024
+register updated --> $31: 0x7c
+PC updated       --> PC: 9c
+
+PC: 9c           --> FET: 8fbe0020
+register updated --> $30: 0xffffb8
+PC updated       --> PC: a0
+
+PC: a0           --> FET: 27bd0028
+register updated --> $29: 0xffffb8
+PC updated       --> PC: a4
+
+PC: a4           --> FET: 03e00008
+PC updated       --> PC: 7c
+
+PC: 7c           --> FET: 00401821
+register updated --> $3: 0x2d
+PC updated       --> PC: 80
+
+PC: 80           --> FET: 8fc20028
+register updated --> $2: 0xa
+PC updated       --> PC: 84
+
+PC: 84           --> FET: 00000000
+PC updated       --> PC: 88
+
+PC: 88           --> FET: 00621021
+register updated --> $2: 0x37
+PC updated       --> PC: 8c
+
+PC: 8c           --> FET: afc20018
+memory updated   --> 0x3ffff4: 0x37
+PC updated       --> PC: 90
+
+PC: 90           --> FET: 8fc20018
+register updated --> $2: 0x37
+PC updated       --> PC: 94
+
+PC: 94           --> FET: 03c0e821
+register updated --> $29: 0xffffb8
+PC updated       --> PC: 98
+
+PC: 98           --> FET: 8fbf0024
+register updated --> $31: 0x1c
+PC updated       --> PC: 9c
+
+PC: 9c           --> FET: 8fbe0020
+register updated --> $30: 0xffffe0
+PC updated       --> PC: a0
+
+PC: a0           --> FET: 27bd0028
+register updated --> $29: 0xffffe0
+PC updated       --> PC: a4
+
+PC: a4           --> FET: 03e00008
+PC updated       --> PC: 1c
+
+PC: 1c           --> FET: 03c0e821
+register updated --> $29: 0xffffe0
+PC updated       --> PC: 20
+
+PC: 20           --> FET: 8fbf001c
+register updated --> $31: 0xffffffff
+PC updated       --> PC: 24
+
+PC: 24           --> FET: 8fbe0018
+register updated --> $30: 0x0
+PC updated       --> PC: 28
+
+PC: 28           --> FET: 27bd0020
+register updated --> $29: 0x1000000
+PC updated       --> PC: 2c
+
+PC: 2c           --> FET: 03e00008
+PC updated       --> PC: ffffffff
+
+final result:            $v0: 55
+instructions executed:
+Total                    --> 224 instructions
+R-type instruction       --> 120 instructions
+I-type instruction       --> 153 instructions
+J-type instruction       --> 21 instructions
+Memory instruction       --> 100 instructions
+Branch Taken             --> 9 instructions
+
+program end: No error

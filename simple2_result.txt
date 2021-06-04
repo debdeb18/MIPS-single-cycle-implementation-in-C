@@ -1,0 +1,49 @@
+PC: 0            --> FET: 27bdffe8
+register updated --> $29: 0xffffe8
+PC updated       --> PC: 4
+
+PC: 4            --> FET: afbe0014
+memory updated   --> 0x3fffff: 0x0
+PC updated       --> PC: 8
+
+PC: 8            --> FET: 03a0f021
+register updated --> $30: 0xffffe8
+PC updated       --> PC: c
+
+PC: c            --> FET: 24020064
+register updated --> $2: 0x64
+PC updated       --> PC: 10
+
+PC: 10           --> FET: afc20008
+memory updated   --> 0x3ffffc: 0x64
+PC updated       --> PC: 14
+
+PC: 14           --> FET: 8fc20008
+register updated --> $2: 0x64
+PC updated       --> PC: 18
+
+PC: 18           --> FET: 03c0e821
+register updated --> $29: 0xffffe8
+PC updated       --> PC: 1c
+
+PC: 1c           --> FET: 8fbe0014
+register updated --> $30: 0x0
+PC updated       --> PC: 20
+
+PC: 20           --> FET: 27bd0018
+register updated --> $29: 0x1000000
+PC updated       --> PC: 24
+
+PC: 24           --> FET: 03e00008
+PC updated       --> PC: ffffffff
+
+final result:            $v0: 100
+instructions executed:
+Total                    --> 10 instructions
+R-type instruction       --> 6 instructions
+I-type instruction       --> 7 instructions
+J-type instruction       --> 0 instructions
+Memory instruction       --> 4 instructions
+Branch Taken             --> 0 instructions
+
+program end: No error
