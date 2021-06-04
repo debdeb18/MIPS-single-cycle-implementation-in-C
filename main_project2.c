@@ -156,6 +156,7 @@ int execution() {
 	return 0;
 }
 
+//the zero output of ALU
 int ALU_zero_output(int result) {
 	if (result == 0) {
 		return main_ALU.zero = 1;
@@ -165,6 +166,7 @@ int ALU_zero_output(int result) {
 	}
 }
 
+//to check immediate value, positive and negative
 int check_sign_extend(unsigned int imm) {
 	if ((instr.opcode == 0xc) | (instr.opcode == 0xd)) {
 		imm = (unsigned int)imm;
@@ -178,6 +180,7 @@ int check_sign_extend(unsigned int imm) {
 	return imm;
 }
 
+//the input to data memory unit
 int reg_operation(int reg1, int reg2) {
 	//ALU main
 	mux_main_ALU.opnd2 = reg[reg2];
@@ -250,6 +253,7 @@ void initialize() {
 	return;
 }
 
+//initialize control unit
 void init_control_unit() {
 	control.RegDst = 0;
 	control.Jump = 0;
@@ -292,7 +296,7 @@ int ALU_branch() {
 	return ALU_calculator(PC_jump_or_branch);
 }
 
-//main ALU
+//ALU unit
 int ALU_calculator(ALU type) {
 	if (IR == 0x0) {
 		return 0;
@@ -330,7 +334,7 @@ int ALU_calculator(ALU type) {
 	return result;
 }
 
-//number to bit converter
+//function to extract a specific bit from a number
 int bit(int number, int numBit, int start)
 {
 	return (((1 << numBit) - 1) & (number >> (start - 1)));
@@ -353,6 +357,7 @@ int check(int exp, const char* msg) {
 	return exp;
 }
 
+//shows result of the program
 int print_output() {
 	printf("final result:\t\t $v0: %d\n", reg[2]);
 	printf("instructions executed:\nTotal\t\t\t --> %d instructions\n", instr.count);
